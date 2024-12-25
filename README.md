@@ -4,6 +4,7 @@
 
 **Shikov** is a fun project that uses a **Markov chain** to generate variations of the "Shikairo Day" video.  
 
+
 I have cut the original video into segments based on each syllable, with an additional rest beat (marked as "_").
 
 The program randomly traverses the Markov chain based on the transition matrix and generate the video (which is usually kinda like a otoMAD lmao).
