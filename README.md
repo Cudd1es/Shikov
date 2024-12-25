@@ -12,6 +12,9 @@ You can edit the code and get rid of my limit and try your own to see what it wi
 
 I have put the standard sample "standard.mov" here as a reference. 
 
+The Markov chain plot is as following:
+
+![Markov Chain](Markov_chain.png)
 
 ## Requirements
 
